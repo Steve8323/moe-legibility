@@ -1,0 +1,247 @@
+[
+  {
+    "layer": 6,
+    "expert": 51,
+    "spec": 0.72,
+    "category": "dialogue",
+    "tokens": [
+      "\u548c",
+      "I",
+      "\uff0c",
+      ".\"",
+      ",\"",
+      ",",
+      " \""
+    ],
+    "description": "Japanese punctuation and dialogue marks"
+  },
+  {
+    "layer": 15,
+    "expert": 50,
+    "spec": 0.7,
+    "category": "dialogue",
+    "tokens": [
+      "I",
+      " you",
+      "You",
+      "Almost",
+      " was",
+      " me",
+      " did",
+      " always"
+    ],
+    "description": "Personal pronouns and imperative verbs"
+  },
+  {
+    "layer": 15,
+    "expert": 39,
+    "spec": 0.69,
+    "category": "dialogue",
+    "tokens": [
+      " replied",
+      " asked",
+      " said",
+      " and",
+      ".\"",
+      " the",
+      ",",
+      "."
+    ],
+    "description": "Speech verbs (said, asked, replied) and quotation marks"
+  },
+  {
+    "layer": 15,
+    "expert": 45,
+    "spec": 0.65,
+    "category": "english",
+    "tokens": [
+      " was",
+      " replied",
+      " light",
+      " came",
+      " asked",
+      " she",
+      " said",
+      " he"
+    ],
+    "description": "English sentence fragments and dialogue tags"
+  },
+  {
+    "layer": 15,
+    "expert": 26,
+    "spec": 0.61,
+    "category": "english",
+    "tokens": [
+      " light",
+      " the",
+      " la",
+      " and",
+      "."
+    ],
+    "description": "French articles and conjunctions"
+  },
+  {
+    "layer": 15,
+    "expert": 13,
+    "spec": 0.6,
+    "category": "dialogue",
+    "tokens": [
+      " she",
+      "I",
+      " had",
+      "You",
+      " you",
+      " he",
+      " it",
+      " to"
+    ],
+    "description": "Personal pronouns and possessive adjectives"
+  },
+  {
+    "layer": 13,
+    "expert": 20,
+    "spec": 0.6,
+    "category": "math",
+    "tokens": [
+      " ln",
+      " integral",
+      " equals",
+      " cos",
+      " *",
+      "/",
+      " +",
+      " of"
+    ],
+    "description": "Calculus notation and trigonometric functions"
+  },
+  {
+    "layer": 15,
+    "expert": 62,
+    "spec": 0.6,
+    "category": "english",
+    "tokens": [
+      "Almost",
+      " was",
+      " replied",
+      " came",
+      " asked",
+      " said",
+      " is",
+      " it"
+    ],
+    "description": "polite responses and questions"
+  },
+  {
+    "layer": 15,
+    "expert": 54,
+    "spec": 0.58,
+    "category": "english",
+    "tokens": [
+      " replied",
+      " light",
+      " integral",
+      " asked",
+      ")"
+    ],
+    "description": "English sentence fragments and punctuation marks"
+  },
+  {
+    "layer": 15,
+    "expert": 10,
+    "spec": 0.58,
+    "category": "dialogue",
+    "tokens": [
+      " she",
+      "I",
+      " had",
+      "You",
+      " you",
+      " he",
+      ",\"",
+      " it"
+    ],
+    "description": "Speech tags and quotation marks"
+  },
+  {
+    "layer": 15,
+    "expert": 46,
+    "spec": 0.57,
+    "category": "dialogue",
+    "tokens": [
+      "I",
+      "You",
+      " she",
+      " had",
+      " you",
+      " he",
+      ",\"",
+      " to"
+    ],
+    "description": "Dialogue tags and quotation marks"
+  },
+  {
+    "layer": 15,
+    "expert": 21,
+    "spec": 0.56,
+    "category": "english",
+    "tokens": [
+      " the",
+      " no",
+      " a"
+    ],
+    "description": "Negations and interrogatives"
+  },
+  {
+    "layer": 7,
+    "expert": 15,
+    "spec": 0.56,
+    "category": "math",
+    "tokens": [
+      " equals",
+      " of",
+      " is",
+      " the"
+    ],
+    "description": "algebraic expressions and symbols"
+  },
+  {
+    "layer": 15,
+    "expert": 61,
+    "spec": 0.55,
+    "category": "english",
+    "tokens": [
+      " me",
+      " before",
+      " of",
+      " for",
+      " and"
+    ],
+    "description": "Conjunctions and prepositions"
+  },
+  {
+    "layer": 0,
+    "expert": 52,
+    "spec": 0.55,
+    "category": "python",
+    "tokens": [
+      "return",
+      "lines",
+      " =",
+      "(",
+      ","
+    ],
+    "description": "Python syntax: def, return, brackets and indentation"
+  },
+  {
+    "layer": 15,
+    "expert": 55,
+    "spec": 0.55,
+    "category": "english",
+    "tokens": [
+      " the",
+      " no",
+      " a"
+    ],
+    "description": "Negations and definite articles"
+  }
+]
